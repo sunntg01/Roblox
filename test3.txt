@@ -1,1 +1,1 @@
-<pre>system('cd && cat flag.php')</pre>
+<pre>system('cd && ls')</pre>
