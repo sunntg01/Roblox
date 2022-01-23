@@ -1,1 +1,1 @@
-<pre>system('cd .. && ls')</pre>
+<pre>system('cd .. && cat index.php')</pre>
